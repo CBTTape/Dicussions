@@ -1,2 +1,2 @@
 # Dicussions
-The repo for all cbttape discussions
+The repo for all cbttape and cbt2git discussions
